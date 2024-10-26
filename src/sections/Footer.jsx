@@ -26,7 +26,7 @@ const Footer = () => {
             </div>
         </div>
         <p className='text-white-500'>
-            All Rights Reserved © 2024 Moises Agudelo - J&MFreelance
+            All Rights Reserved © 2024 Moises Agudelo - J&MSolutions
         </p>
     </section>
   )
